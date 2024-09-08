@@ -26,6 +26,6 @@ public class PrimeNumberChecker {
             }
         }
 
-        return;
+        return true ;
     }
 }
